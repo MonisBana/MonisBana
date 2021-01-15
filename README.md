@@ -1,4 +1,9 @@
 ### Hi, I am Monis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+A passionate Full-Stack Developer from 🇮🇳 working as an Assistant System Engineer in Tata Consultancy Services.I'm a quick learner and flexible enough to work with any technology.<br/> 
+In my free time I... <br/> 
+👨‍💻 Learn new technologies.<br/> 
+⚽ Play/watch football.
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MonisBana)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monisbana97/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/monis_bana)
