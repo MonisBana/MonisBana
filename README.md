@@ -19,5 +19,5 @@ In my free time I... <br/>
 - Web scrapping: Scrapy
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonisBana&hide=jupyter%20notebook&langs_count=6&theme=radical)](https://github.com/MonisBana/github-readme-stats)
-[![MonisBana's github stats](https://github-readme-stats.vercel.app/api?username=MonisBana&theme=radical)](https://github.com/MonisBana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonisBana&hide=jupyter%20notebook&langs_count=6&theme=gotham)](https://github.com/MonisBana/github-readme-stats)
+[![MonisBana's github stats](https://github-readme-stats.vercel.app/api?username=MonisBana&theme=gotham&show_icons=true)](https://github.com/MonisBana/github-readme-stats)
