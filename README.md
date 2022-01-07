@@ -1,5 +1,5 @@
 ### Hi, I am Monis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-A passionate Full-Stack Developer from 🇮🇳 working as an Assistant System Engineer in Tata Consultancy Services.I'm a quick learner and flexible enough to work with any technology.<br/> 
+A passionate Full-Stack Developer from 🇮🇳 working as a Software Engineer in Amdocs.I'm a quick learner and flexible enough to work with any technology.<br/> 
 In my free time I... <br/> 
 👨‍💻 Learn new technologies.<br/> 
 ⚽ Play/watch football.
@@ -12,7 +12,7 @@ In my free time I... <br/>
 #### My Tech Stack:
 
 - Front-end: HTML, CSS, JavaScript, React, Redux, Bootstrap, Tailwindcss
-- Back-end: Django
+- Back-end: Django, Nest JS
 - Database: MySQL, Firebase
 - Web Hosting: Vercel, AWS
 - Machine Learning: Scikit Learn, TensorFlow
